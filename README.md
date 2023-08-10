@@ -1,1 +1,3 @@
 # Mini-Project
+
+### Wplanner is a stunning web design masterpiece crafted using the power of HTML and CSS. Seamlessly blending creativity and functionality, wplanner presents an engaging and user-centric interface that captivates visitors from the moment they land on the page. With a clean and modern design aesthetic, every element on wplanner's website has been meticulously placed to ensure an intuitive and visually appealing user experience. The clever use of CSS animations brings life to the site, subtly guiding users through its features. From its responsive layout that adapts flawlessly to various devices to its thoughtfully structured HTML code, wplanner showcases the art of web design in its finest form, setting a new standard for elegance and usability.
